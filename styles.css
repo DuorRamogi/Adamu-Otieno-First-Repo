@@ -1,0 +1,15 @@
+@media (max-width: 28.75em) {
+    .nav {
+        justify-content: center;
+    }
+}
+
+#navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+#welcome-section {
+    height: 100vh;
+}
